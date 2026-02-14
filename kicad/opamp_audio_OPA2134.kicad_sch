@@ -3232,7 +3232,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA2134"
+		(property "Value" "TPA6120"
 			(at 88.9 45.72 0)
 			(effects
 				(font
@@ -3388,7 +3388,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA2134"
+		(property "Value" "TPA6120"
 			(at 86.36 113.03 0)
 			(effects
 				(font
@@ -4243,7 +4243,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "OPA2134"
+		(property "Value" "TPA6120"
 			(at 227.33 128.2699 0)
 			(effects
 				(font
@@ -4674,7 +4674,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "OPA2134"
+		(property "Value" "TPA6120"
 			(at 199.39 128.2699 0)
 			(effects
 				(font
@@ -4711,28 +4711,28 @@
 			)
 		)
 		(pin "5"
-			(uuid "7f439468-efe9-4458-9238-e5146c411bc6")
+			(uuid "7f439468-efe9-4458-9238-e5146c411bc7")
 		)
 		(pin "3"
-			(uuid "81a55192-0bf5-49c2-93cd-39a409634f91")
+			(uuid "81a55192-0bf5-49c2-93cd-39a409634f92")
 		)
 		(pin "4"
 			(uuid "b94d20be-253c-4d56-9618-8afee7a92717")
 		)
 		(pin "1"
-			(uuid "610b8e8b-3f25-4711-93e7-0cfced2b5eb2")
+			(uuid "610b8e8b-3f25-4711-93e7-0cfced2b5eb3")
 		)
 		(pin "2"
-			(uuid "3b3f1717-7519-4723-bbc6-358ebb14f21a")
+			(uuid "3b3f1717-7519-4723-bbc6-358ebb14f21b")
 		)
 		(pin "7"
-			(uuid "cee25091-f4bc-4226-8099-87b005a05d07")
+			(uuid "cee25091-f4bc-4226-8099-87b005a05d08")
 		)
 		(pin "8"
 			(uuid "fe3a697c-bbff-4013-9333-86a80d02eb7f")
 		)
 		(pin "6"
-			(uuid "44efe3d2-078a-4ae8-85ee-0ef798aa280d")
+			(uuid "44efe3d2-078a-4ae8-85ee-0ef798aa280e")
 		)
 		(instances
 			(project ""
